@@ -10,9 +10,12 @@ header img,
 .work img {
   width: 100%;
 }
-
+footer img {
+  width: 100%;
+}
 @media (max-width: 768px) {
   #logo {
+    width: 100%;
     visibility: hidden;
   }
 }
