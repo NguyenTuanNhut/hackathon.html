@@ -1,0 +1,18 @@
+#logo {
+  position: relative;
+  left: 70%;
+}
+
+main,
+.content,
+header img,
+.skill picture,
+.work img {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  #logo {
+    visibility: hidden;
+  }
+}
